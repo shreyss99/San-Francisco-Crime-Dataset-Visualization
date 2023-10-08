@@ -1,4 +1,4 @@
-# IS445-Data-Vizualization-Project
+# San-Francisco-Crime-Dataset-Visualization
 
 This repository contains the Data Visualizations developed using the Python libraries.
 
